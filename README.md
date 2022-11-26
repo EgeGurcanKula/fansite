@@ -1,3 +1,5 @@
+Note: This whole project was uploaded. It was originally a private repository on Zach Nicely's github. I worked on the backend, Jared Guzman worked on the frontend, and Zach helped with a little bit of everything, especially the SQL. Actually, if I remember correctly he did all of the SQL.
+
 ## High Level Project Definition
 
 We are structuring the data in our project similar to how a blog would. Each page that the admin wants to save is stored as a 'post' object with some useful tags for the front end to use to display content correctly - 'id' and 'type' in specific. The ui uses get requests from the backend to populate the majority of the content for the fansite and api requests to the giphycat api to get gifs to make pages more visually interesting.
